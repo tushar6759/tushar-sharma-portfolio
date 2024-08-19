@@ -84,7 +84,7 @@ export const DATA = {
             end: "Present",
             description:"During my time at Bajaj Finserv Health Limited, I was responsible for managing and developing backend services for onboarding doctors and suppliers, including hospitals, labs, and pharmacies. I created and optimized these services using Java Spring Boot, with Redis for caching and Kafka for messaging. These services were critical in ensuring seamless data flow across the organization, supporting the integration and management of essential healthcare entities."
         }, {
-            company: "Bajaj Finserv Health Limited",
+            company: "Bajaj Finserv Health Ltd",
             href: "https://www.bajajfinservhealth.in",
             badges: [],
             location: "pune",
