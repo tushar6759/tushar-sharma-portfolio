@@ -10,7 +10,7 @@ export const DATA = {
         "Software engineer who loves building cool stuff, exploring new places, and making a positive impact by helping others.",
     summary:
         "I began my journey in 2019 when I enrolled in a B.Tech program. After three years of engineering studies, I landed an internship at Bajaj Finserv Health Limited. My performance during the internship earned me a full-time role at the same company, where I’m currently working as a full stack developer, using Spring Boot for backend and React.js for frontend development.",
-    avatarUrl: "/tushar.jpeg",
+    avatarUrl: "/tushar_updated.jpeg",
     skills: [
         "Java",
         "spring boot",
